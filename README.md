@@ -1,2 +1,2 @@
-# py-minesweeper
-Minesweeper I made in python
+# PySweeper
+I dont really code in python much so the code is pretty garbo
